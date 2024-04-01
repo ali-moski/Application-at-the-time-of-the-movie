@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/drawable/background_gradient_2.xml" value="0.2115" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/drawable/bg_circle_dark.xml" value="0.2065" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/drawable/bg_shadow.xml" value="0.178" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/drawable/btn_background.xml" value="0.1245" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/drawable/circle_gradient.xml" value="0.135" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/drawable/floting_background.xml" value="0.2115" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/drawable/gridient_color_background.xml" value="0.1175" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1305" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/drawable/ic_round_person_24.xml" value="0.1305" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/drawable/intro_btn_background.xml" value="0.2105" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/drawable/search_edt_background.xml" value="0.2115" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/activity_detail.xml" value="0.14" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/activity_intro.xml" value="0.18" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/activity_login.xml" value="0.15" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/activity_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/activity_van.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/ali.xml" value="0.203125" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/fragment_library.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/fragment_profil.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/fragment_settengs.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/fragment_shorts.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/fragment_subscription.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/ic_baseline_person_24.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/ic_baseline_settings_24.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/viewholder_detail_images.xml" value="0.16" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/layout/viewholder_film.xml" value="0.16" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/menu/bottom_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/koders11.LOCAL/AndroidStudioProjects/Timemovie/app/src/main/res/menu/botton_nav_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

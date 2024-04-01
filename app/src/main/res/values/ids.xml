@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="shorts" type="id">shorts</item>
+    <item name="library" type="id">library</item>
+    <item name="frame_layout" type="id">frame_layout</item>
+</resources>
